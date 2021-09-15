@@ -1,4 +1,4 @@
-#  Acute Myeloid & Lymphoblastic Leukemia AI Research Project
+#  Acute Myeloid & Lymphoblastic Leukemia Detection Model
 ## Acute Lymphoblastic Leukemia PyTorch Classifier 
 
 &nbsp;
