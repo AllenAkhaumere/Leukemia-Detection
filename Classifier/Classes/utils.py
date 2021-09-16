@@ -48,6 +48,8 @@ def image_to_csv(file_path, save_path, mode=""):
             writer.writerow([image, label])
     print("done")
 
+    
+
 
 
 
@@ -147,5 +149,13 @@ def model_confusion_matrix(y_true, y_pred, classes=[]):
     hmap.xaxis.set_ticklabels(hmap.xaxis.get_ticklabels(), rotation=30, ha='right')
     plt.ylabel('True Label')
     plt.xlabel('Predicted label')
+    plt.show()
 
 
+
+
+
+
+
+
+                          
